@@ -1,0 +1,41 @@
+.navbar{
+     background-color: #ff6b81;
+      
+}
+h4 {
+    color: #ff6b81; 
+}
+
+i{
+    color: #ff6b81;  
+}
+.navbar-brand{
+    color:#fff;
+}
+.navbar ul>li>a{
+    color:#fff;
+}
+#abt{
+    margin-top:70px;
+    margin-bottom: 80px;
+ 
+}
+#service{
+    background-color: #f9f9f9;
+    margin-top:70px;
+    margin-bottom: 80px;
+    padding:20px;
+}
+#contact{
+    background-color: #f9f9f9;
+    margin-top:70px;
+    margin-bottom: 80px;
+    padding:20px;
+}
+#foot{
+    background-color: #081828;
+    padding: 30px;
+}
+#foot p, ul ,li{
+    color:#fff;
+}
